@@ -16,6 +16,20 @@ brew install terraform
 
 ## Deploy Your Cluster at AWS
 
+Clone/[fork](https://github.com/ykbryan/aws-terraform-eks/fork) this repo for your project.
+
+```
+git clone https://github.com/ykbryan/aws-terraform-eks
+```
+
+Go to your project:
+
+```
+cd aws-terraform-eks
+```
+
+Deploy via Terraform commands:
+
 ```
 terraform init
 terraform plan

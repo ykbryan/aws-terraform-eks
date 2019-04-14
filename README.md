@@ -1,7 +1,27 @@
 # Teraform + Amazon EKS
 
+## Sign up for an AWS account
+
+Go to [AWS website](https://aws.amazon.com/) and sign up an AWS account to get started. 
+
+## Install terraform on Mac with Brew
+
+Terraform is a tool to build, version and change your infrastructure. It is a product of hashicorp. It works with multi cloud environment like aws, google cloud, data-centers
+
+Use [homebrew](https://brew.sh/) to install Terraform 
+
+```
+brew install terraform
+```
+
+## Deploy Your Cluster at AWS
+
 ```
 terraform init
 terraform plan
 terraform apply
 ```
+
+## Explore EKS
+
+Explore multiple ways to configure VPC, ALB, and EC2 Kubernetes workers, and Amazon Elastic Container Service for Kubernetes. Go to the [EKS Workshop](https://eksworkshop.com/) for more details.

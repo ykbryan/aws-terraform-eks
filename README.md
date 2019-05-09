@@ -1,5 +1,7 @@
 # Teraform + Amazon EKS
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a428eedc121e42d185ba12ec0dc7231a)](https://app.codacy.com/app/bryanchua/aws-terraform-eks?utm_source=github.com&utm_medium=referral&utm_content=ykbryan/aws-terraform-eks&utm_campaign=Badge_Grade_Dashboard)
+
 ## Sign up for an AWS account
 
 Go to [AWS website](https://aws.amazon.com/) and sign up an AWS account to get started. 

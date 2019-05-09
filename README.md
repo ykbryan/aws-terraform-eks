@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/816aff9d77954707ac598f7a89d5a470)](https://www.codacy.com/app/bryanchua/aws-terraform-eks?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ykbryan/aws-terraform-eks&amp;utm_campaign=Badge_Grade)
+
 # Teraform + Amazon EKS
 
 ## Sign up for an AWS account

@@ -30,11 +30,23 @@ Go to your project:
 cd aws-terraform-eks
 ```
 
-Deploy via Terraform commands:
+**Deploy via Terraform commands**
+
+Initilise the terraform:
 
 ```
 terraform init
+```
+
+Do terraform plan to preview what is going to be provision:
+
+```
 terraform plan
+```
+
+Once you have confirmed what are going to be provisioned, apply the terraform:
+
+```
 terraform apply
 ```
 

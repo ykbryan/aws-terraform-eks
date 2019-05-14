@@ -18,6 +18,10 @@ Use [homebrew](https://brew.sh/) to install Terraform
 brew install terraform
 ```
 
+## Install terraform on other OS
+
+Refer to the official [Terraform page](https://www.terraform.io/downloads.html) to download the latest Terraform.
+
 ## Deploy Your Cluster at AWS
 
 Clone/[fork](https://github.com/ykbryan/aws-terraform-eks/fork) this repo for your project.
